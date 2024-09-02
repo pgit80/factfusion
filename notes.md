@@ -1,3 +1,6 @@
+> we can add authentication
+> we can add filtering of facts
+
 **react** is component based, declarative and state driven
 
 # **component**-> A component is js fuction that contains a piece of ui(both its content and functionality). We build complex UIs by combining multiple components
